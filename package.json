@@ -1,0 +1,15 @@
+{
+  "name": "nodejstelegram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Pechen_in",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^1.18.4"
+  }
+}
